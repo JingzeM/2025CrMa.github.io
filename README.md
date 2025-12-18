@@ -1,6 +1,6 @@
 # 2025CrMa.github.io
 
-[手绘风圣诞树_副本.py](https://github.com/user-attachments/files/24225899/_.py)
+
 from turtle import *
 import time
 
